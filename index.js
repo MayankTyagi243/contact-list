@@ -14,22 +14,7 @@ app.use(express.urlencoded());
 app.use(express.static('assets'));
 
 var contactList = [
-    {
-        name: "Mayank",
-        phone: "8899304828"
-    },
-    {
-        name: "Parshant",
-        phone: "8899301557"
-    },
-    {
-        name: "Monish",
-        phone: "7217442270"
-    },
-    {
-        name: "Mahima",
-        phone: "9193462634"
-    }
+    
 ]
 
 
